@@ -6,10 +6,10 @@
         id        = "com.tricedesigns.PGLegends"
         version   = "1.0.0">
 
-    <name>Legends</name>
+    <name>My First Phonegap Apps</name>
 
     <description>
-        PhoneGap Legends is a fantasy/RPG themed demo that leverages HTML DOM animation techniques and targets webkit browsers.
+        My First Phonegap Apps is the first project using phonegap and bithub.
     </description>
 
     <author href="http://tricedesigns.com" email="atrice@adobe.com">
